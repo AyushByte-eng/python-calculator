@@ -1,3 +1,6 @@
+
+
+
 print("Simple Calculator")
 num1 =float(input("Enter first number:"))
 operator=input("Enter operator (+, -, *, /, %, **, //):")
